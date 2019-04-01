@@ -4,7 +4,7 @@
  * @copyright Naguissa
  * @author Naguissa
  * @email naguissa@foroelectro.net
- * @version 1.0.0
+ * @version 2.0.0
  * @created 2018-04-21
  */
 #include "uCRC16Lib.h"
@@ -42,8 +42,9 @@ uint16_t uCRC16Lib::calculate(char *data_p, uint16_t length) {
 		}
 	} while (--length);
 	crc = ~crc;
-	data = crc;
-	crc = (crc << 8) | (data >> 8 & 0xFF);
+	// Byte swap only needed in certain cases (i.e.: line transmission), so don't perform it.
+	// data = crc;
+	// crc = (crc << 8) | (data >> 8 & 0xFF);
 	return (crc);
 }
 

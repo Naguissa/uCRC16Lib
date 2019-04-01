@@ -35,5 +35,15 @@ Included on example folder, available on Arduino IDE.
 ## Who do I talk to? ##
 
  * [Naguissa](https://github.com/Naguissa)
- * https://www.foroelectro.net/electronica-digital-microcontroladores-f8/utimerlib-libreria-arduino-para-eventos-temporizad-t191.html
+ * https://www.foroelectro.net/librerias-arduino-ide-f29/ucrc16lib-pequena-libreria-para-calcular-el-ccitt--t214.html
 
+
+## Contribute ##
+
+Any code contribution, report or comment are always welcome. Don't hesitate to use GitHub for that.
+
+
+You can make a donation via PayPal: https://paypal.me/foroelectro
+
+
+Thanks for your support.

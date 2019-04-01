@@ -1,2 +1,3 @@
 Base algorithm
  - http://www.drdobbs.com/implementing-the-ccitt-cyclical-redundan/199904926
+ - http://www.atari-forum.com/viewtopic.php?p=9497&sid=56732b020e2aa36accbb09bdb2e34d77#p9497

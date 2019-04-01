@@ -4,7 +4,7 @@
  * @copyright Naguissa
  * @author Naguissa
  * @email naguissa@foroelectro.net
- * @version 1.0.0
+ * @version 2.0.0
  * @created 2018-04-21
  */
 #ifndef _uCRC16Lib_
@@ -17,7 +17,7 @@
 	class uCRC16Lib {
 		public:
 			static uint16_t calculate(char *, uint16_t);
-			const static uint16_t crc_ok = 0x470F;
+			const static uint16_t crc_ok = 0x0F47;
 
 		private:
 			// Static library, no need to construct objects
