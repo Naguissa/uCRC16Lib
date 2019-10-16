@@ -1,5 +1,7 @@
 # Arduino IDE based CCITT CRC16 calculator - uCRC16Lib #
 
+Master status:   [![Build Status](https://travis-ci.org/Naguissa/uCRC16Lib.svg?branch=master)](https://travis-ci.org/Naguissa/uCRC16Lib)
+
 ## What is this repository for? ##
 
 Tiny and cross-device compatible CCITT CRC16 calculation.
